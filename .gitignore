@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+# Data and training artifacts
+data/
+dataset/
+datasets/
+tuner_dir/
+*.keras
+*.h5
+*.hdf5
+*.ckpt
+*.tflite
+saved_model/
+# Local OS files
+.DS_Store
+Thumbs.db
